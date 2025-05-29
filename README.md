@@ -17,3 +17,7 @@ In this lab we learned how to use a PWM signal to change the brightness of an LE
 | SW2        | PORTF.PIN0   | Digital      | GPIO | IN/NEG    | UP          |
 | DIRA       | PORTA.PIN2   | Digital      | GPIO | OUT       |             |
 | DIRB       | PORTA.PIN3   | Digital      | GPIO | OUT       |             |
+
+## 🔌 Circuit Diagram
+
+![PWM Circuit Diagram](./Circuit%20Diagram.png)
