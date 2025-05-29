@@ -30,3 +30,9 @@ This project demonstrates how to control a DC motor and onboard LED using Pulse 
 ##  Circuit Diagram
 
 ![PWM Circuit Diagram](./Circuit_Diagram.png)
+
+## Circuit Diagram
+
+Below is the circuit board used for this PWM control project:
+
+![Circuit Diagram](./Circuit_Board.png)
