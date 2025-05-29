@@ -20,4 +20,4 @@ In this lab we learned how to use a PWM signal to change the brightness of an LE
 
 ##  Circuit Diagram
 
-![PWM Circuit Diagram](./CircuitDiagram.png)
+![PWM Circuit Diagram](./Circuit Diagram.png)
