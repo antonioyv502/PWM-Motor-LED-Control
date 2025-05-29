@@ -6,8 +6,6 @@ In this lab we learned how to use a PWM signal to change the brightness of an LE
 - **Tiva C Series LaunchPad** (TM4C123G microcontroller)
 - **DC Motor**
 - **L293D Motor Driver**
-- **Onboard LED**
-- **Pushbutton Switches** (SW1 for speed control, SW2 for direction control)
 - **Resistors** 
 - **Breadboard and Jumper Wires** 
 - **Power Supply**
