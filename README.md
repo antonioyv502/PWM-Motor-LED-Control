@@ -6,7 +6,7 @@ This project demonstrates how to control a DC motor and onboard LED using Pulse 
 - PWM control for both LED brightness and DC motor speed.
 - Adjustable motor speed using onboard switch SW1.
 - Change motor direction using onboard switch SW2.
-- 
+  
 ## 🛠 Hardware Components
 
 - **Tiva C Series LaunchPad** (TM4C123G microcontroller)
